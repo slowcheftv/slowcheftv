@@ -1,0 +1,7 @@
+description: The personal site of Name.
+canonical: 
+highlighter: pygments
+markdown: kramdown
+future: true
+gems:
+    - jekyll-sitemap
